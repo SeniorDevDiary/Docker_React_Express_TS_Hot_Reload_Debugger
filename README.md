@@ -1,4 +1,4 @@
-### scripts
+# https://www.youtube.com/@SeniorDevDiary
 
 # create server
 
